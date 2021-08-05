@@ -1,0 +1,45 @@
+*{
+    font-family: "PingFang-SC-Medium";
+}
+@font-face {
+	/* 中黑体 */
+    font-family: 'PingFang-SC-Bold';
+    src: url('PingFangBold.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	/* 极细体 */
+    font-family: 'PingFang-SC-ExtraLight';
+    src: url('PingFangExtraLight.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	/* 中粗体 */
+    font-family: 'PingFang-SC-Heavy';
+    src: url('PingFangHeavy.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	/* 纤细体 */
+    font-family: 'PingFang-SC-Light';
+    src: url('PingFangLight.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	/* 常规体 */
+    font-family: 'PingFang-SC-Medium';
+    src: url('PingFangMedium.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	/* 细体 */
+    font-family: 'PingFang-SC-Regular';
+    src: url('PingFangRegular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
